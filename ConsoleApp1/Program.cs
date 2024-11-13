@@ -7,7 +7,7 @@
 
 // Console.WriteLine("Type in username");
 // string name = Console.ReadLine();
-// if  (name == "noname")
+// if  (name == "kalleanka")
 // {
 //     Console.WriteLine("Welcome!");
 // }
@@ -49,7 +49,18 @@
 // } 
 // Console.ReadLine();
 
-for (int tal = 0; tal > 5; tal++)
-{
-    Console.WriteLine("Högre än 5!");
-}
+// for (int hello = 0; hello < 5; hello++)
+// {
+
+// Console.WriteLine("Skriv ett tal");
+// string tal = Console.ReadLine();
+// int n = 0;
+// bool success = int.TryParse(tal, out n);
+// if (n > 5)
+// {
+//     Console.WriteLine("Högre än 5!");
+// }
+// }
+// Console.ReadLine();
+
+
